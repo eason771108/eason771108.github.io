@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Ethan'
+theme = "risotto"
+
+[Params]
+author= "Ethan"
+description= "Hi I am Ethan, a senior software developer mainly in Windows/Linux application developing(C++). Here is my blog to share anything that I learn from my work. Hope you can find anything useful from here"
