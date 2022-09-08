@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://eason771108.github.io"
 title = "Ethan's Blog"
 theme = "m10c"
 paginate = 8
@@ -10,6 +10,11 @@ paginate = 8
     url = "/"
     weight = 1
   [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
@@ -17,7 +22,7 @@ paginate = 8
 
 [params]
   author = "Ethan"
-  description = "Share & enjoy everything going on my life"
+  description = "Share & enjoy everyhing going on my life"
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
