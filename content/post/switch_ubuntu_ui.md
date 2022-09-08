@@ -1,7 +1,7 @@
 ---
 title: "Switch Ubuntu desktop environment between GUI only envrionment"
 date: 2022-09-02T21:51:57+08:00
-draft: true
+draft: false
 tags : ["Ubuntu"]
 ---
 
